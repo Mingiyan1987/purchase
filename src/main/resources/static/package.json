@@ -1,0 +1,24 @@
+{
+  "name": "spring-and-reactjs",
+  "version": "1.0.0",
+  "description": "\"ReactJS for SaleProject spring\"",
+  "main": "app.bundle.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mingiyan1987/saleproject.git"
+  },
+  "keywords": [
+    "\"rest\"",
+    "\"sping\"",
+    "\"saleproject\""
+  ],
+  "author": "Mingiyan Basanov",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Mingiyan1987/saleproject/issues"
+  },
+  "homepage": "https://github.com/Mingiyan1987/saleproject#readme"
+}
